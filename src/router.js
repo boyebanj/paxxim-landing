@@ -5,8 +5,7 @@ import IOS        from '@/pages/IOS.vue'
 import Windows        from '@/pages/Windows.vue'
 import Landlords      from '@/pages/Landlords.vue'
 import Tenants from '@/pages/Tenants.vue'
-import Changelog  from '@/pages/Changelog.vue'
-import Blog       from '@/pages/Blog.vue'
+import Enterprise  from '@/pages/Enterprise.vue'
 import Pricing    from '@/pages/Pricing.vue'
 
 const routes = [
@@ -16,8 +15,7 @@ const routes = [
   { path: '/windows',              component: Windows   },
   { path: '/landlords',            component: Landlords     },
   { path: '/tenants',              component: Tenants},
-  { path: '/changelog',            component: Changelog },
-  { path: '/blog',                 component: Blog      },
+  { path: '/enterprise',            component: Enterprise },
   { path: '/pricing',              component: Pricing   },
 ]
 

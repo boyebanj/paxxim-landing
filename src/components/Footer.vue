@@ -22,7 +22,7 @@
             <a class="Footer_footerLink__N575X" href="/pro">Pro</a>
             <a class="Footer_footerLink__N575X" href="/teams">Teams</a>
             <a class="Footer_footerLink__N575X" href="/pricing">Pricing</a>
-            <a class="Footer_footerLink__N575X" href="/changelog">Changelog</a>
+            <a class="Footer_footerLink__N575X" href="/enterprise">Enterprise</a>
             <a class="Footer_footerLink__N575X" href="/browser-extension">Browser Extension</a>
             <a class="Footer_footerLink__N575X" href="/developers">
               Developers

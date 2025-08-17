@@ -49,8 +49,7 @@
         <router-link class="NavLink_navLink__REP72" to="/ios">iOS</router-link>
         <router-link class="NavLink_navLink__REP72" to="/landlords">Landlords</router-link>
         <router-link class="NavLink_navLink__REP72" to="/tenants">Tenants</router-link>
-        <router-link class="NavLink_navLink__REP72" to="/changelog">Changelog</router-link>
-        <router-link class="NavLink_navLink__REP72" to="/blog">Blog</router-link>
+        <router-link class="NavLink_navLink__REP72" to="/enterprise">Enterprise</router-link>
         <router-link class="NavLink_navLink__REP72" to="/pricing">Pricing</router-link>
       </nav>
 
