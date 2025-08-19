@@ -1,6 +1,9 @@
 <template>
   <div class="Container_container__pBLEY Container_md__dbYCi">
-    <PlanHeader />
+    <PlanHeader 
+      title="Property Management, powered by AI" 
+      subtitle="Maximize your rental income with AI-driven tools for tenant screening, maintenance automation, and real-time analytics."
+    />
     <PlanUsedBy />
     <PlanFeatures />
     <Upsell />

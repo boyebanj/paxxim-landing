@@ -252,8 +252,8 @@
         </svg>
       </a>
 
-      <h1>Your team, reimagined.</h1>
-      <p>Take your team up a level with easy-to-use tools, effortless templates and efficient workflows.</p>
+      <h1><slot name="title">{{ props.title }}</slot></h1>
+      <p><slot name="subtitle">{{ subtitle }}</slot></p>
 
       <a class="Button_button__JJiqJ Button_light__KdYEB" href="/settings/organizations/new?open=true">Get started today</a>
 
@@ -296,6 +296,14 @@ const profiles: Record<number, string> = {
   10: p10,
   11: p11
 }
+
+const props = withDefaults(defineProps<{
+  title?: string
+  subtitle?: string
+}>(), {
+  title: 'Your team, reimagined.',
+  subtitle: 'Take your team up a level with easy-to-use tools, effortless templates and efficient workflows.'
+})
 
 const profileSrc = (n: number) => profiles[n]
 </script>

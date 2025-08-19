@@ -1,6 +1,9 @@
 <template>
   <div class="Container_container__pBLEY Container_md__dbYCi">
-    <PlanHeader />
+    <PlanHeader 
+      title="Smart renting, powered by AI" 
+      subtitle="Simplify your renting journey with AI-powered tools for seamless payments, instant maintenance support, and personalized property insights."
+    />
     <PlanUsedBy />
     <PlanFeatures />
     <Upsell />

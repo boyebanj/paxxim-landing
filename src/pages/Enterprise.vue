@@ -1,6 +1,9 @@
 <template>
   <div class="Container_container__pBLEY Container_md__dbYCi">
-    <PlanHeader />
+    <PlanHeader 
+      title="Property Management, powered by AI" 
+      subtitle="Scale your property portfolio with AI solutions for multi-unit management, data-driven insights, and seamless team collaboration."
+    />
     <PlanUsedBy />
     <PlanFeatures />
     <Upsell />
