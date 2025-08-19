@@ -30,7 +30,7 @@
         <h4>Unlock your team’s potential with custom extensions</h4>
         <p>With great teams come great processes. Using our developer API, create and publish extensions to your organization’s Private Extension Store for your team to install.</p>
         <p>Build extensions to quickly access company brand assets, log feedback, book time off, or search your employee index.</p>
-        <a href="https://developers.raycast.com/teams-beta/getting-started" target="_blank" rel="noreferrer">
+        <a href="https://developers.paxxim.com/teams-beta/getting-started" target="_blank" rel="noreferrer">
           Read the docs
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" class="icon">
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
@@ -171,7 +171,7 @@
           <h4>No more “where’s the link<br> you shared yesterday?”</h4>
           <p>Convert long links into simple bookmarks for the whole team to access. Jump in to GitHub repos, open up project documentation and revisit the latest prototypes, effortlessly. Even set up your new members with everything they need, much faster.</p>
           <p>With Shared Quicklinks, it’s easy to get everyone on the same page.</p>
-          <a href="https://manual.raycast.com/quicklinks" target="_blank" rel="noreferrer">
+          <a href="https://manual.paxxim.com/quicklinks" target="_blank" rel="noreferrer">
             Learn about Quicklinks
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" class="icon">
               <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
@@ -208,7 +208,7 @@
           <h4>Cut time and save hassle to communicate more efficiently</h4>
           <p>Write faster by using Shared Snippets to store and insert the text your teams use most. Create canned responses to help with support, easily give code reviews in a set format and embed consistency across documentation.</p>
           <p>Expand them automatically with a keyword, to write more while typing less. All in a snip.</p>
-          <a href="https://manual.raycast.com/snippets" target="_blank" rel="noreferrer">
+          <a href="https://manual.paxxim.com/snippets" target="_blank" rel="noreferrer">
             Learn more about Snippets
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16" class="icon">
               <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"

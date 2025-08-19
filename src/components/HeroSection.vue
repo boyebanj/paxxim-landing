@@ -119,9 +119,9 @@ onMounted(() => {
     }
 
     // Update CSS custom properties
-    button.style.setProperty('--x', `${x + 6}px`) // Offset by half glow size
+    button.style.setProperty('--x', `${x + 6}px`)
     button.style.setProperty('--y', `${y + 6}px`)
-    button.style.setProperty('--r2', `${progress * 360}deg`) // Rotate like Raycast
+    button.style.setProperty('--r2', `${progress * 360}deg`)
 
     time += 16 // ~60fps (16ms per frame)
     animationFrameId = requestAnimationFrame(animateGlow)

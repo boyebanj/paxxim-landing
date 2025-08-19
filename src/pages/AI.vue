@@ -121,7 +121,7 @@
 import { computed } from 'vue'
 import bgUrl from '@/assets/images/bg.png'
 
-const modules = import.meta.glob('@/assets/images/appicons/*.{png,jpg,jpeg,webp,svg}', {
+const modules = import.meta.glob('@/assets/images/appIcons/*.{png,jpg,jpeg,webp,svg}', {
   eager: true,
   import: 'default'
 })

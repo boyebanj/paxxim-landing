@@ -5,10 +5,10 @@
 
     <div class="ReadyForTakeOff_downloadInfo__CM8Y1">
       <div class="ReadyForTakeOff_downloadLink__myvBd">
-        <a class="ReadyForTakeOff_callToAction__uY7y0" href="https://releases.raycast.com/download">Download for Mac</a>
+        <a class="ReadyForTakeOff_callToAction__uY7y0" href="https://releases.paxxim.com/download">Download for Mac</a>
       </div>
       or
-      <a class="BrewInstallInstructions_brewInfo__o7dqg"><span>$</span> brew install --cask raycast</a>
+      <a class="BrewInstallInstructions_brewInfo__o7dqg"><span>$</span> brew install --cask paxxim</a>
     </div>
 
     <div class="ReadyForTakeOff_sendDownloadLink__WSILI">
